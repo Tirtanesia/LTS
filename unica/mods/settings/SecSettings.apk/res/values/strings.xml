@@ -74,4 +74,6 @@
     <string name="lotus_people_title">People behind the ROM</string>
     <string name="lotus_no_browser">No web browser available</string>
     <string name="lotus_no_github">User does not have a GitHub account</string>
+    <string name="menu_key_unica_top_settings">Unica Settings</string>
+    <string name="unica_about_artisan_rom_title">Lotus OS Official</string>
 </resources>
