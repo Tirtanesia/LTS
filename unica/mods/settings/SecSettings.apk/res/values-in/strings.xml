@@ -60,4 +60,6 @@
     <string name="artisanrom_version_toast_counting">Nggak, terus tap... (%d)</string>
     <string name="artisanrom_version_toast_final">Cari apa? Pengaturan developer tidak ada di sini!</string>
     <string name="artisanrom_version_toast_done">Masih di sini? Udah bilang, pengaturan developer tidak ada di sini!</string>
+    <string name="menu_key_unica_top_settings">Unica Settings</string>
+    <string name="unica_about_artisan_rom_title">Lotus OS Official</string>
 </resources>
